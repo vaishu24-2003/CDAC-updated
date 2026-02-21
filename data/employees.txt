@@ -1,0 +1,2 @@
+EMP101,Vinod,Bangalore,75000
+EMP102,Amit,Delhi,60000
